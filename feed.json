@@ -1,0 +1,133 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Suites Reforma",
+    "description": "",
+    "home_page_url": "https://demianlicht.github.io/suites-reforma",
+    "feed_url": "https://demianlicht.github.io/suites-reforma/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Demian Licht"
+    },
+    "items": [
+        {
+            "id": "https://demianlicht.github.io/suites-reforma/suites-reforma/",
+            "url": "https://demianlicht.github.io/suites-reforma/suites-reforma/",
+            "title": "Suites Reforma",
+            "summary": "Ofrecemos:Habitaciones sencillas, dobles y triples estándar.Habitaciones sencillas, dobles y triples deluxe.Regular suites sencillas y dobles estándar.Regular suites sencillas y dobles deluxe.Master suites (hasta 4&hellip;",
+            "content_html": "<p><strong>Ofrecemos:</strong></p>\n<ul>\n<li class=\"p1\">Habitaciones sencillas, dobles y triples estándar.</li>\n<li class=\"p1\">Habitaciones sencillas, dobles y triples deluxe.</li>\n<li class=\"p1\">Regular suites sencillas y dobles estándar.</li>\n<li class=\"p1\">Regular suites sencillas y dobles deluxe.</li>\n<li class=\"p1\">Master suites (hasta 4 adultos)</li>\n<li class=\"p1\">Suite presidencial (hasta 5 adultos)</li>\n</ul>",
+            "image": "https://demianlicht.github.io/suites-reforma/media/posts/8/1.jpg",
+            "author": {
+                "name": "Demian Licht"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-11-11T17:20:42-06:00",
+            "date_modified": "2018-11-12T11:27:41-06:00"
+        },
+        {
+            "id": "https://demianlicht.github.io/suites-reforma/prueba/",
+            "url": "https://demianlicht.github.io/suites-reforma/prueba/",
+            "title": "Suite Presidencial",
+            "summary": "Dos habitaciones una sencilla y doble o dos dobles y una habitación adicional. $168 / noche con impuestosCafeteraGarrafa de aguaTv en sala y en&hellip;",
+            "content_html": "<p class=\"p1\">Dos habitaciones una sencilla y doble o dos dobles y una habitación adicional.</p>\n<p><strong>$168 / noche con impuestos</strong></p>\n<ul style=\"list-style-type: circle;\">\n<li class=\"p1\">Cafetera</li>\n<li class=\"p1\">Garrafa de agua</li>\n<li class=\"p1\">Tv en sala y en dormitorio</li>\n<li class=\"p1\">Reloj despertador</li>\n<li class=\"p1\">Baño</li>\n<li class=\"p1\">Secadora de pelo</li>\n<li class=\"p1\">Ducha de agua caliente</li>\n<li class=\"p1\">Cocina</li>\n<li class=\"p1\">Vajilla</li>\n<li class=\"p1\">Sala</li>\n<li class=\"p1\">Comedor</li>\n</ul>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/1/gallery/WhatsApp-Image-2018-11-12-at-9.41.23-AM.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/1/gallery/WhatsApp-Image-2018-11-12-at-9.41.23-AM-thumbnail.jpeg\" alt=\"Presidential Suite\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/1/gallery/WhatsApp-Image-2018-11-12-at-9.41.24-AM-1.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/1/gallery/WhatsApp-Image-2018-11-12-at-9.41.24-AM-1-thumbnail.jpeg\" alt=\"Presidential Suite\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/1/gallery/WhatsApp-Image-2018-11-12-at-9.41.24-AM.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/1/gallery/WhatsApp-Image-2018-11-12-at-9.41.24-AM-thumbnail.jpeg\" alt=\"Presidential Suite\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/1/gallery/WhatsApp-Image-2018-11-12-at-9.41.25-AM-1.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/1/gallery/WhatsApp-Image-2018-11-12-at-9.41.25-AM-1-thumbnail.jpeg\" alt=\"Presidential Suite\" width=\"240\" height=\"240\"></a></figure>\n</div>",
+            "image": "https://demianlicht.github.io/suites-reforma/media/posts/1/IMG_3498.jpg",
+            "author": {
+                "name": "Demian Licht"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-11-08T17:14:00-06:00",
+            "date_modified": "2018-11-12T11:24:02-06:00"
+        },
+        {
+            "id": "https://demianlicht.github.io/suites-reforma/master-suites-deluxe/",
+            "url": "https://demianlicht.github.io/suites-reforma/master-suites-deluxe/",
+            "title": "Master Suites Deluxe",
+            "summary": "Dos habitaciones una sencilla y doble o dos dobles $156.80 / noche con impuestos Equipada con:CafeteraGarrafa de aguaTV en sala y en dormitorioReloj despertadorBañoSecadora&hellip;",
+            "content_html": "<p class=\"p1\">Dos habitaciones una sencilla y doble o dos dobles</p>\n<p class=\"p1\"><strong>$156.80 / noche con impuestos</strong></p>\n<p class=\"p1\">Equipada con:</p>\n<ul style=\"list-style-type: circle;\">\n<li class=\"p1\">Cafetera</li>\n<li class=\"p1\">Garrafa de agua</li>\n<li class=\"p1\">TV en sala y en dormitorio</li>\n<li class=\"p1\">Reloj despertador</li>\n<li class=\"p1\">Baño</li>\n<li class=\"p1\">Secadora de pelo</li>\n<li class=\"p1\">Ducha de agua caliente</li>\n<li class=\"p1\">Cocina</li>\n<li class=\"p1\">Vajilla</li>\n<li class=\"p1\">Sala</li>\n<li class=\"p1\">Comedor </li>\n</ul>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/2/gallery/WhatsApp-Image-2018-11-12-at-9.41.28-AM-1.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/2/gallery/WhatsApp-Image-2018-11-12-at-9.41.28-AM-1-thumbnail.jpeg\" alt=\"Master Suite Deluxe\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/2/gallery/WhatsApp-Image-2018-11-12-at-9.41.28-AM.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/2/gallery/WhatsApp-Image-2018-11-12-at-9.41.28-AM-thumbnail.jpeg\" alt=\"Master Suite Deluxe\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/2/gallery/WhatsApp-Image-2018-11-12-at-9.41.29-AM-1.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/2/gallery/WhatsApp-Image-2018-11-12-at-9.41.29-AM-1-thumbnail.jpeg\" alt=\"Master Suite Deluxe\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/2/gallery/WhatsApp-Image-2018-11-12-at-9.41.29-AM-2.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/2/gallery/WhatsApp-Image-2018-11-12-at-9.41.29-AM-2-thumbnail.jpeg\" alt=\"Master Suite Deluxe\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/2/gallery/WhatsApp-Image-2018-11-12-at-9.41.29-AM.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/2/gallery/WhatsApp-Image-2018-11-12-at-9.41.29-AM-thumbnail.jpeg\" alt=\"Master Suite Deluxe\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/2/gallery/WhatsApp-Image-2018-11-12-at-9.41.30-AM-1.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/2/gallery/WhatsApp-Image-2018-11-12-at-9.41.30-AM-1-thumbnail.jpeg\" alt=\"Master Suite Deluxe\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/2/gallery/WhatsApp-Image-2018-11-12-at-9.41.30-AM.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/2/gallery/WhatsApp-Image-2018-11-12-at-9.41.30-AM-thumbnail.jpeg\" alt=\"Master Suite Deluxe\" width=\"240\" height=\"240\"></a></figure>\n</div>",
+            "image": "https://demianlicht.github.io/suites-reforma/media/posts/2/IMG_1108.jpg",
+            "author": {
+                "name": "Demian Licht"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-11-06T17:03:00-06:00",
+            "date_modified": "2018-11-12T11:25:06-06:00"
+        },
+        {
+            "id": "https://demianlicht.github.io/suites-reforma/regular-suites-deluxe/",
+            "url": "https://demianlicht.github.io/suites-reforma/regular-suites-deluxe/",
+            "title": "Regular Suites Deluxe",
+            "summary": "$125 / noche con impuestos Equipada con:CafeteraGarrafa de aguaTV en sala y en dormitorioReloj despertadorBañoSecadora de peloDucha de agua calienteCocinaVajillaSalaComedor",
+            "content_html": "<p><strong>$125 / noche con impuestos</strong></p>\n<p class=\"p1\">Equipada con:</p>\n<ul style=\"list-style-type: circle;\">\n<li class=\"p1\">Cafetera</li>\n<li class=\"p1\">Garrafa de agua</li>\n<li class=\"p1\">TV en sala y en dormitorio</li>\n<li class=\"p1\">Reloj despertador</li>\n<li class=\"p1\">Baño</li>\n<li class=\"p1\">Secadora de pelo</li>\n<li class=\"p1\">Ducha de agua caliente</li>\n<li class=\"p1\">Cocina</li>\n<li class=\"p1\">Vajilla</li>\n<li class=\"p1\">Sala</li>\n<li class=\"p1\">Comedor</li>\n</ul>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/3/gallery/WhatsApp-Image-2018-11-12-at-9.41.31-AM.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/3/gallery/WhatsApp-Image-2018-11-12-at-9.41.31-AM-thumbnail.jpeg\" alt=\"Regular Suite Deluxe\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/3/gallery/WhatsApp-Image-2018-11-12-at-9.41.32-AM.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/3/gallery/WhatsApp-Image-2018-11-12-at-9.41.32-AM-thumbnail.jpeg\" alt=\"Regular Suite Deluxe\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/3/gallery/WhatsApp-Image-2018-11-12-at-9.42.12-AM.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/3/gallery/WhatsApp-Image-2018-11-12-at-9.42.12-AM-thumbnail.jpeg\" alt=\"Regular Suite Deluxe\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/3/gallery/WhatsApp-Image-2018-11-12-at-9.42.13-AM-1.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/3/gallery/WhatsApp-Image-2018-11-12-at-9.42.13-AM-1-thumbnail.jpeg\" alt=\"Regular Suite Deluxe\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/3/gallery/WhatsApp-Image-2018-11-12-at-9.42.13-AM.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/3/gallery/WhatsApp-Image-2018-11-12-at-9.42.13-AM-thumbnail.jpeg\" alt=\"Regular Suite Deluxe\" width=\"240\" height=\"240\"></a></figure>\n</div>",
+            "image": "https://demianlicht.github.io/suites-reforma/media/posts/3/IMG_2564.jpg",
+            "author": {
+                "name": "Demian Licht"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-11-05T17:06:00-06:00",
+            "date_modified": "2018-11-12T11:25:33-06:00"
+        },
+        {
+            "id": "https://demianlicht.github.io/suites-reforma/regular-suite-estandar/",
+            "url": "https://demianlicht.github.io/suites-reforma/regular-suite-estandar/",
+            "title": "Regular Suite Estándar",
+            "summary": "$100 / noche con impuestos Equipada con:CafeteraGarrafa de aguaTV en sala y en dormitorioReloj despertadorBañoSecadora de peloDucha de agua calienteCocinaVajillaSalaComedor",
+            "content_html": "<p><strong>$100 / noche con impuestos</strong></p>\n<p class=\"p1\">Equipada con:</p>\n<ul style=\"list-style-type: circle;\">\n<li class=\"p1\">Cafetera</li>\n<li class=\"p1\">Garrafa de agua</li>\n<li class=\"p1\">TV en sala y en dormitorio</li>\n<li class=\"p1\">Reloj despertador</li>\n<li class=\"p1\">Baño</li>\n<li class=\"p1\">Secadora de pelo</li>\n<li class=\"p1\">Ducha de agua caliente</li>\n<li class=\"p1\">Cocina</li>\n<li class=\"p1\">Vajilla</li>\n<li class=\"p1\">Sala</li>\n<li class=\"p1\">Comedor</li>\n</ul>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/4/gallery/WhatsApp-Image-2018-11-12-at-9.41.28-AM-1.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/4/gallery/WhatsApp-Image-2018-11-12-at-9.41.28-AM-1-thumbnail.jpeg\" alt=\"Regular Suite\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/4/gallery/WhatsApp-Image-2018-11-12-at-9.41.28-AM.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/4/gallery/WhatsApp-Image-2018-11-12-at-9.41.28-AM-thumbnail.jpeg\" alt=\"Regular Suite\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/4/gallery/WhatsApp-Image-2018-11-12-at-9.41.29-AM-1.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/4/gallery/WhatsApp-Image-2018-11-12-at-9.41.29-AM-1-thumbnail.jpeg\" alt=\"Regular Suite\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/4/gallery/WhatsApp-Image-2018-11-12-at-9.41.29-AM-2.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/4/gallery/WhatsApp-Image-2018-11-12-at-9.41.29-AM-2-thumbnail.jpeg\" alt=\"Regular Suite\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/4/gallery/WhatsApp-Image-2018-11-12-at-9.41.29-AM.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/4/gallery/WhatsApp-Image-2018-11-12-at-9.41.29-AM-thumbnail.jpeg\" alt=\"Regular Suite\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/4/gallery/WhatsApp-Image-2018-11-12-at-9.41.30-AM-1.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/4/gallery/WhatsApp-Image-2018-11-12-at-9.41.30-AM-1-thumbnail.jpeg\" alt=\"Regular Suite\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/4/gallery/WhatsApp-Image-2018-11-12-at-9.41.30-AM.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/4/gallery/WhatsApp-Image-2018-11-12-at-9.41.30-AM-thumbnail.jpeg\" alt=\"Regular Suite\" width=\"240\" height=\"240\"></a></figure>\n</div>",
+            "image": "https://demianlicht.github.io/suites-reforma/media/posts/4/IMG_7483.jpg",
+            "author": {
+                "name": "Demian Licht"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-11-04T17:09:00-06:00",
+            "date_modified": "2018-11-12T11:25:55-06:00"
+        },
+        {
+            "id": "https://demianlicht.github.io/suites-reforma/habitaciones-estandar-triples/",
+            "url": "https://demianlicht.github.io/suites-reforma/habitaciones-estandar-triples/",
+            "title": "Estándar Triples",
+            "summary": "$100.04 / noche con impuestos Equipada con:MinibarCafeteraGarrafa de aguaTVReloj despertadorBañoSecadora de peloDucha de agua caliente",
+            "content_html": "<p><strong>$100.04 / noche con impuestos</strong></p>\n<p>Equipada con:</p>\n<ul style=\"list-style-type: circle;\">\n<li class=\"p1\">Minibar</li>\n<li class=\"p1\">Cafetera</li>\n<li class=\"p1\">Garrafa de agua</li>\n<li class=\"p1\">TV</li>\n<li class=\"p1\">Reloj despertador</li>\n<li class=\"p1\">Baño</li>\n<li class=\"p1\">Secadora de pelo</li>\n<li class=\"p1\">Ducha de agua caliente</li>\n</ul>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/5/gallery/WhatsApp-Image-2018-11-12-at-9.41.23-AM.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/5/gallery/WhatsApp-Image-2018-11-12-at-9.41.23-AM-thumbnail.jpeg\" alt=\"Standard 3 Bedroom\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/5/gallery/WhatsApp-Image-2018-11-12-at-9.41.24-AM-1.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/5/gallery/WhatsApp-Image-2018-11-12-at-9.41.24-AM-1-thumbnail.jpeg\" alt=\"Standard 3 Bedroom\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/5/gallery/WhatsApp-Image-2018-11-12-at-9.41.24-AM.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/5/gallery/WhatsApp-Image-2018-11-12-at-9.41.24-AM-thumbnail.jpeg\" alt=\"Standard 3 Bedroom\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/5/gallery/WhatsApp-Image-2018-11-12-at-9.41.25-AM-1.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/5/gallery/WhatsApp-Image-2018-11-12-at-9.41.25-AM-1-thumbnail.jpeg\" alt=\"Standard 3 Bedroom\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/5/gallery/WhatsApp-Image-2018-11-12-at-9.41.25-AM.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/5/gallery/WhatsApp-Image-2018-11-12-at-9.41.25-AM-thumbnail.jpeg\" alt=\"Standard 3 Bedroom\" width=\"240\" height=\"240\"></a></figure>\n</div>",
+            "image": "https://demianlicht.github.io/suites-reforma/media/posts/5/IMG_6169.jpg",
+            "author": {
+                "name": "Demian Licht"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-11-03T17:12:00-06:00",
+            "date_modified": "2018-11-12T11:26:35-06:00"
+        },
+        {
+            "id": "https://demianlicht.github.io/suites-reforma/habitaciones-estandar-dobles/",
+            "url": "https://demianlicht.github.io/suites-reforma/habitaciones-estandar-dobles/",
+            "title": "Estándar Dobles",
+            "summary": "$92 / noche con impuestos incluidos Equipada con:MinibarCafeteraGarrafa de aguaTVReloj despertadorBañoSecadora de peloDucha de agua caliente",
+            "content_html": "<p><strong>$92 / noche con impuestos incluidos</strong></p>\n<p>Equipada con:</p>\n<ul style=\"list-style-type: circle;\">\n<li class=\"p1\">Minibar</li>\n<li class=\"p1\">Cafetera</li>\n<li class=\"p1\">Garrafa de agua</li>\n<li class=\"p1\">TV</li>\n<li class=\"p1\">Reloj despertador</li>\n<li class=\"p1\">Baño</li>\n<li class=\"p1\">Secadora de pelo</li>\n<li class=\"p1\">Ducha de agua caliente</li>\n</ul>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/6/gallery/WhatsApp-Image-2018-11-12-at-9.41.20-AM.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/6/gallery/WhatsApp-Image-2018-11-12-at-9.41.20-AM-thumbnail.jpeg\" alt=\"Standard 2 Bedroom\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/6/gallery/WhatsApp-Image-2018-11-12-at-9.41.21-AM-1.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/6/gallery/WhatsApp-Image-2018-11-12-at-9.41.21-AM-1-thumbnail.jpeg\" alt=\"Standard 2 Bedroom\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/6/gallery/WhatsApp-Image-2018-11-12-at-9.41.21-AM.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/6/gallery/WhatsApp-Image-2018-11-12-at-9.41.21-AM-thumbnail.jpeg\" alt=\"Standard 2 Bedroom\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/6/gallery/WhatsApp-Image-2018-11-12-at-9.41.22-AM.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/6/gallery/WhatsApp-Image-2018-11-12-at-9.41.22-AM-thumbnail.jpeg\" alt=\"Standard 2 Bedroom\" width=\"240\" height=\"240\"></a></figure>\n</div>",
+            "image": "https://demianlicht.github.io/suites-reforma/media/posts/6/IMG_6590.jpg",
+            "author": {
+                "name": "Demian Licht"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-11-02T17:13:00-06:00",
+            "date_modified": "2018-11-12T11:27:14-06:00"
+        },
+        {
+            "id": "https://demianlicht.github.io/suites-reforma/habitaciones-estandar-sencillas/",
+            "url": "https://demianlicht.github.io/suites-reforma/habitaciones-estandar-sencillas/",
+            "title": "Estándar Sencillas",
+            "summary": "$86 / noche con impuestos Equipada con:MinibarCafeteraGarrafa de aguaTVReloj despertadorBañoSecadora de peloDucha de agua caliente",
+            "content_html": "<p><strong>$86 / noche con impuestos</strong></p>\n<p>Equipada con:</p>\n<ul style=\"list-style-type: circle;\">\n<li class=\"p1\">Minibar</li>\n<li class=\"p1\">Cafetera</li>\n<li class=\"p1\">Garrafa de agua</li>\n<li class=\"p1\">TV</li>\n<li class=\"p1\">Reloj despertador</li>\n<li class=\"p1\">Baño</li>\n<li class=\"p1\">Secadora de pelo</li>\n<li class=\"p1\">Ducha de agua caliente</li>\n</ul>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/7/gallery/WhatsApp-Image-2018-11-12-at-9.41.16-AM.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/7/gallery/WhatsApp-Image-2018-11-12-at-9.41.16-AM-thumbnail.jpeg\" alt=\"Standard 1 Bedroom\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/7/gallery/WhatsApp-Image-2018-11-12-at-9.41.17-AM.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/7/gallery/WhatsApp-Image-2018-11-12-at-9.41.17-AM-thumbnail.jpeg\" alt=\"Standard 1 Bedroom\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/7/gallery/WhatsApp-Image-2018-11-12-at-9.41.18-AM-1.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/7/gallery/WhatsApp-Image-2018-11-12-at-9.41.18-AM-1-thumbnail.jpeg\" alt=\"Standard 1 Bedroom\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/7/gallery/WhatsApp-Image-2018-11-12-at-9.41.18-AM.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/7/gallery/WhatsApp-Image-2018-11-12-at-9.41.18-AM-thumbnail.jpeg\" alt=\"Standard 1 Bedroom\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/7/gallery/WhatsApp-Image-2018-11-12-at-9.41.19-AM-1.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/7/gallery/WhatsApp-Image-2018-11-12-at-9.41.19-AM-1-thumbnail.jpeg\" alt=\"Standard 1 Bedroom\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demianlicht.github.io/suites-reforma/media/posts/7/gallery/WhatsApp-Image-2018-11-12-at-9.41.19-AM.jpeg\" ><img src=\"https://demianlicht.github.io/suites-reforma/media/posts/7/gallery/WhatsApp-Image-2018-11-12-at-9.41.19-AM-thumbnail.jpeg\" alt=\"Standard 1 Bedroom\" width=\"240\" height=\"240\"></a></figure>\n</div>",
+            "image": "https://demianlicht.github.io/suites-reforma/media/posts/7/IMG_1108.jpg",
+            "author": {
+                "name": "Demian Licht"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-11-01T17:16:00-06:00",
+            "date_modified": "2018-11-12T11:27:23-06:00"
+        }
+    ]
+}
